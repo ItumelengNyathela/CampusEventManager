@@ -1,0 +1,21 @@
+# =========================================================
+# CAMPUS EVENT MANAGEMENT SYSTEM DATABASE
+# =========================================================
+# Format Reminders:
+# EVENT | ID | Name | Date | Time | Location | MaxCapacity
+# REG   | First Name | Surname | Student Number
+# WAIT  | First Name | Surname | Student Number
+# =========================================================
+
+EVENT | 1 | Richfield Campus AI training | 01/05/2026 | 13:30 | Pitori | 2
+  REG | Itumeleng | Nyathela | 202020
+  REG | Kamo | Moketla | 202021
+ WAIT | Itu | Nyathela | 202023
+
+EVENT | 2 | Welcoming Day 2026 | 25/02/2026 | 10:00 | Main Hall | 2
+  REG | Test | Test | 202023
+
+EVENT | 3 | Java Day Hacking | 12/06/2026 | 10:00 | PTA | 2
+
+EVENT | 4 | Campus Java Hackathon | 20/05/2026 | 10:00 | Main Hall | 5
+
